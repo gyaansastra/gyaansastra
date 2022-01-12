@@ -28,10 +28,6 @@ Security Researcher 🔒, Photographer 📸, and Tech Evangelist 🦄!
 
 Tech Evangelist and Information Security enthusiast. I love the challenge of finding logical bugs in security products to improve security posture. Love data analytics and visualization, specially madly in love with GraphDB.
 
-## Feedback
-
-If you have any feedback, please reach out to us at gyaansastra@gmail.com
-
 
 ## 🤝 Connect with me:
 [![Blogspot](https://img.shields.io/badge/Blogger-000?style=for-the-badge&logo=blogger&logoColor=white)](https://debarghaya.blogspot.com/)
