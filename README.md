@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
   <a href="https://debarghaya.blogspot.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gyaansastra/gyaansastra/blob/main/images/banner.png" alt="my banner"></a>
 </p>
