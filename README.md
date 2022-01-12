@@ -32,7 +32,7 @@ Tech Evangelist and Information Security enthusiast. I love the challenge of fin
 ## 🤝 Connect with me:
 [![Blogspot](https://img.shields.io/badge/Blogger-000?style=for-the-badge&logo=blogger&logoColor=white)](https://debarghaya.blogspot.com/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyaansastra)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarghaya/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/debarghaya/)
 
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
