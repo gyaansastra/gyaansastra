@@ -28,11 +28,17 @@ Security Researcher 🔒, Photographer 📸, and Tech Evangelist 🦄!
 
 Tech Evangelist and Information Security enthusiast. I love the challenge of finding logical bugs in security products to improve security posture. Love data analytics and visualization, specially madly in love with GraphDB.
 
-### 🤝 Connect with me:
+## Feedback
 
-<a href="https://linkedin.com/in/debarghaya/"><img align="left" src="https://github.com/gyaansastra/gyaansastra/blob/main/images/linkedin.svg" alt="Debarghaya | LinkedIn" width="21px"/></a>
-<a href="https://debarghaya.blogspot.com/"><img align="left" src="https://github.com/gyaansastra/gyaansastra/blob/main/images/blogger.png" alt="Debarghaya | Blogspot" width="21px"/></a>
-</br>
+If you have any feedback, please reach out to us at gyaansastra@gmail.com
+
+
+## 🤝 Connect with me:
+[![Blogspot](https://img.shields.io/badge/Blogger-000?style=for-the-badge&logo=blogger&logoColor=white)](https://debarghaya.blogspot.com/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gyaansastra)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debarghaya/)
+
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
