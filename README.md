@@ -195,42 +195,51 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-![Last Updated](https://img.shields.io/badge/Updated-2024--01--01-blue?style=flat-square)
-![Productivity Score](https://img.shields.io/badge/Productivity-0-green?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-17--10--2025-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5441-green?style=flat-square)
+💻 ![Commits](https://img.shields.io/badge/Commits-333-orange?style=flat-square)
 
-### 🎯 Current Status: 🌱 Emerging Talent
+### 🎯 Current Status: 💪 Active Contributor
 
 <table>
 <tr>
 <td>
 
 **📈 Repository Stats**
-- Total Repositories: **0**
-- Original Projects: **0**
-- Total Stars: ⭐ **0**
-- Total Forks: 🍴 **0**
+- Total Repositories: **95**
+- Original Projects: **92**
+- Total Stars: ⭐ **103**
+- Total Forks: 🍴 **20**
 
 </td>
 <td>
 
 **🔥 Developer Activity**
-- Total Commits: **0**
-- PRs Merged: **0**
+- Total Commits: **333**
+- PRs Merged: **17**
 - Issues Closed: **0**
-- Commits (30d): **0**
+- Commits (30d): **127**
 
 </td>
 </tr>
 </table>
 
 ### 💻 Top Languages
-- **Python**: ████████████████████ `0 repos`
+- **Python**: █████████ `30 repos`
+- **JavaScript**: █ `5 repos`
+- **TypeScript**: █ `5 repos`
+- **C**: █ `4 repos`
+- **PowerShell**: █ `4 repos`
 
 ### 🏆 Earned Badges
-![Emerging Talent](https://img.shields.io/badge/-Emerging_Talent-yellow?style=flat-square)
+![Active Contributor](https://img.shields.io/badge/-Active_Contributor-yellow?style=flat-square) ![Growing Portfolio](https://img.shields.io/badge/-Growing_Portfolio-yellow?style=flat-square)
 
 ### 📌 Top Public Repositories
-- [Example](https://github.com) - ⭐ **0** stars
+- [CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716) - ⭐ **59** stars
+- [Print-Nightmare-LPE](https://github.com/gyaansastra/Print-Nightmare-LPE) - ⭐ **19** stars
+- [Threat-Hunting-List](https://github.com/gyaansastra/Threat-Hunting-List) - ⭐ **9** stars
+- [AmOgh](https://github.com/gyaansastra/AmOgh) - ⭐ **2** stars
+- [CVE-2022-0847](https://github.com/gyaansastra/CVE-2022-0847) - ⭐ **2** stars
 <!-- METRICS-END -->
 
 ### 🤝 Collaboration Principles

@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-10-17T13:12:24.084711+00:00",
+  "user": {
+    "login": "gyaansastra",
+    "name": "Debarghaya Dasgupta",
+    "bio": "Cybersecurity & AI Leader | Driving Security Strategy, Threat Intelligence, SOC Innovation & Generative AI Solutions",
+    "company": null,
+    "location": "Sydney",
+    "followers": 19,
+    "following": 4,
+    "public_repos": 22,
+    "public_gists": 0,
+    "created_at": "2018-01-22T11:50:02+00:00"
+  },
+  "repositories": {
+    "total": 95,
+    "original": 92,
+    "forked": 3,
+    "archived": 0
+  },
+  "statistics": {
+    "total_stars": 103,
+    "total_forks": 20,
+    "total_watchers": 103,
+    "total_commits": 333,
+    "total_prs_merged": 17,
+    "total_issues_closed": 0
+  },
+  "languages": {
+    "Python": 30,
+    "JavaScript": 5,
+    "TypeScript": 5,
+    "C": 4,
+    "PowerShell": 4,
+    "Jupyter Notebook": 4,
+    "Shell": 3,
+    "HTML": 2,
+    "Bicep": 1,
+    "HCL": 1,
+    "C#": 1,
+    "Java": 1,
+    "YARA": 1,
+    "Vue": 1,
+    "C++": 1,
+    "Go": 1,
+    "CSS": 1
+  },
+  "recent_activity": {
+    "commits_last_7_days": 55,
+    "commits_last_30_days": 127,
+    "commits_last_365_days": 333,
+    "prs_merged_last_7_days": 5,
+    "prs_merged_last_30_days": 15,
+    "issues_closed_last_7_days": 0,
+    "issues_closed_last_30_days": 0
+  },
+  "top_repositories": [
+    {
+      "name": "CVE-2023-21716",
+      "stars": 59,
+      "url": "https://github.com/gyaansastra/CVE-2023-21716",
+      "description": "A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means)."
+    },
+    {
+      "name": "Print-Nightmare-LPE",
+      "stars": 19,
+      "url": "https://github.com/gyaansastra/Print-Nightmare-LPE",
+      "description": "No description"
+    },
+    {
+      "name": "Threat-Hunting-List",
+      "stars": 9,
+      "url": "https://github.com/gyaansastra/Threat-Hunting-List",
+      "description": "Curated list of threat detection and hunting resources"
+    },
+    {
+      "name": "AmOgh",
+      "stars": 2,
+      "url": "https://github.com/gyaansastra/AmOgh",
+      "description": "Rootkit-Simulator"
+    },
+    {
+      "name": "CVE-2022-0847",
+      "stars": 2,
+      "url": "https://github.com/gyaansastra/CVE-2022-0847",
+      "description": "Dirty Pipe POC"
+    },
+    {
+      "name": "CVE-2022-30190",
+      "stars": 2,
+      "url": "https://github.com/gyaansastra/CVE-2022-30190",
+      "description": "No description"
+    },
+    {
+      "name": "WebHackersToolkit",
+      "stars": 2,
+      "url": "https://github.com/gyaansastra/WebHackersToolkit",
+      "description": "No description"
+    },
+    {
+      "name": "Windows-Feature-Hunter",
+      "stars": 2,
+      "url": "https://github.com/gyaansastra/Windows-Feature-Hunter",
+      "description": "No description"
+    },
+    {
+      "name": "CVE-2021-44228",
+      "stars": 1,
+      "url": "https://github.com/gyaansastra/CVE-2021-44228",
+      "description": "Log4Shell CVE-2021-44228 Vulnerability Scanner and POC"
+    },
+    {
+      "name": "DeepLab",
+      "stars": 1,
+      "url": "https://github.com/gyaansastra/DeepLab",
+      "description": "No description"
+    }
+  ],
+  "security_repos": [
+    {
+      "name": "Pentest_Guide",
+      "url": "https://github.com/gyaansastra/Pentest_Guide",
+      "stars": 0
+    },
+    {
+      "name": "WAFBypass-Garurda",
+      "url": "https://github.com/gyaansastra/WAFBypass-Garurda",
+      "stars": 1
+    }
+  ],
+  "ai_ml_repos": [],
+  "productivity_score": {
+    "score": 5441,
+    "level": "\ud83d\udcaa Active Contributor",
+    "badges": [
+      "Active Contributor",
+      "Growing Portfolio"
+    ]
+  }
+}
