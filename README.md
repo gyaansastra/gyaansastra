@@ -195,9 +195,9 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-26--11--2025-blue?style=flat-square)
-⚡ ![Productivity](https://img.shields.io/badge/Productivity-5736-green?style=flat-square)
-💻 ![Commits](https://img.shields.io/badge/Commits-373-orange?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-27--11--2025-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5743-green?style=flat-square)
+💻 ![Commits](https://img.shields.io/badge/Commits-374-orange?style=flat-square)
 
 ### 🎯 Current Status: 💪 Active Contributor
 
@@ -206,27 +206,27 @@ Data Engineering:
 <td>
 
 **📈 Repository Stats**
-- Total Repositories: **96**
-- Original Projects: **93**
-- Total Stars: ⭐ **104**
+- Total Repositories: **97**
+- Original Projects: **94**
+- Total Stars: ⭐ **105**
 - Total Forks: 🍴 **20**
 
 </td>
 <td>
 
 **🔥 Developer Activity**
-- Total Commits: **373**
+- Total Commits: **374**
 - PRs Merged: **48**
 - Issues Closed: **0**
-- Commits (30d): **39**
+- Commits (30d): **33**
 
 </td>
 </tr>
 </table>
 
 ### 💻 Top Languages
-- **Python**: █████████ `31 repos`
-- **JavaScript**: █ `6 repos`
+- **Python**: ████████ `31 repos`
+- **JavaScript**: ██ `7 repos`
 - **TypeScript**: █ `5 repos`
 - **C**: █ `4 repos`
 - **PowerShell**: █ `4 repos`
