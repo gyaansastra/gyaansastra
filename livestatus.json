@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T03:03:42.566785+00:00",
+  "timestamp": "2025-11-29T03:03:06.161729+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -22,8 +22,8 @@
     "total_stars": 105,
     "total_forks": 20,
     "total_watchers": 105,
-    "total_commits": 373,
-    "total_prs_merged": 48,
+    "total_commits": 376,
+    "total_prs_merged": 49,
     "total_issues_closed": 0
   },
   "languages": {
@@ -46,11 +46,11 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 7,
-    "commits_last_30_days": 31,
-    "commits_last_365_days": 373,
-    "prs_merged_last_7_days": 2,
-    "prs_merged_last_30_days": 12,
+    "commits_last_7_days": 10,
+    "commits_last_30_days": 30,
+    "commits_last_365_days": 376,
+    "prs_merged_last_7_days": 3,
+    "prs_merged_last_30_days": 11,
     "issues_closed_last_7_days": 0,
     "issues_closed_last_30_days": 0
   },
@@ -130,7 +130,7 @@
   ],
   "ai_ml_repos": [],
   "productivity_score": {
-    "score": 5731,
+    "score": 5752,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
