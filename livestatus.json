@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-01T03:29:07.197360+00:00",
+  "timestamp": "2025-12-02T03:10:17.425926+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -13,8 +13,8 @@
     "created_at": "2018-01-22T11:50:02+00:00"
   },
   "repositories": {
-    "total": 97,
-    "original": 94,
+    "total": 98,
+    "original": 95,
     "forked": 3,
     "archived": 0
   },
@@ -30,9 +30,9 @@
     "Python": 31,
     "JavaScript": 7,
     "TypeScript": 5,
+    "Jupyter Notebook": 5,
     "C": 4,
     "PowerShell": 4,
-    "Jupyter Notebook": 4,
     "Shell": 3,
     "HTML": 2,
     "Bicep": 1,
@@ -46,10 +46,10 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 8,
+    "commits_last_7_days": 5,
     "commits_last_30_days": 29,
     "commits_last_365_days": 376,
-    "prs_merged_last_7_days": 2,
+    "prs_merged_last_7_days": 1,
     "prs_merged_last_30_days": 11,
     "issues_closed_last_7_days": 0,
     "issues_closed_last_30_days": 0
@@ -130,7 +130,7 @@
   ],
   "ai_ml_repos": [],
   "productivity_score": {
-    "score": 5747,
+    "score": 5772,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
