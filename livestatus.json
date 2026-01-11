@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T03:16:03.653863+00:00",
+  "timestamp": "2026-01-11T03:29:54.612807+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -46,10 +46,10 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 6,
+    "commits_last_7_days": 0,
     "commits_last_30_days": 10,
     "commits_last_365_days": 380,
-    "prs_merged_last_7_days": 3,
+    "prs_merged_last_7_days": 0,
     "prs_merged_last_30_days": 3,
     "issues_closed_last_7_days": 0,
     "issues_closed_last_30_days": 0
