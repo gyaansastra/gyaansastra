@@ -195,7 +195,7 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-05--02--2026-blue?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-06--02--2026-blue?style=flat-square)
 ⚡ ![Productivity](https://img.shields.io/badge/Productivity-5682-green?style=flat-square)
 💻 ![Commits](https://img.shields.io/badge/Commits-356-orange?style=flat-square)
 
