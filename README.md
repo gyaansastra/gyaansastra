@@ -195,8 +195,8 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-23--03--2026-blue?style=flat-square)
-⚡ ![Productivity](https://img.shields.io/badge/Productivity-5623-green?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-24--03--2026-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5633-green?style=flat-square)
 💻 ![Commits](https://img.shields.io/badge/Commits-294-orange?style=flat-square)
 
 ### 🎯 Current Status: 💪 Active Contributor
@@ -208,7 +208,7 @@ Data Engineering:
 **📈 Repository Stats**
 - Total Repositories: **100**
 - Original Projects: **97**
-- Total Stars: ⭐ **106**
+- Total Stars: ⭐ **107**
 - Total Forks: 🍴 **20**
 
 </td>
@@ -238,8 +238,8 @@ Data Engineering:
 - [CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716) - ⭐ **59** stars
 - [Print-Nightmare-LPE](https://github.com/gyaansastra/Print-Nightmare-LPE) - ⭐ **20** stars
 - [Threat-Hunting-List](https://github.com/gyaansastra/Threat-Hunting-List) - ⭐ **9** stars
+- [CVE-2022-0847](https://github.com/gyaansastra/CVE-2022-0847) - ⭐ **3** stars
 - [AmOgh](https://github.com/gyaansastra/AmOgh) - ⭐ **2** stars
-- [CVE-2022-0847](https://github.com/gyaansastra/CVE-2022-0847) - ⭐ **2** stars
 <!-- METRICS-END -->
 
 ### 🤝 Collaboration Principles

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T04:13:31.550241+00:00",
+  "timestamp": "2026-03-24T04:05:27.432928+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -19,9 +19,9 @@
     "archived": 0
   },
   "statistics": {
-    "total_stars": 106,
+    "total_stars": 107,
     "total_forks": 20,
-    "total_watchers": 106,
+    "total_watchers": 107,
     "total_commits": 294,
     "total_prs_merged": 53,
     "total_issues_closed": 0
@@ -74,16 +74,16 @@
       "description": "Curated list of threat detection and hunting resources"
     },
     {
+      "name": "CVE-2022-0847",
+      "stars": 3,
+      "url": "https://github.com/gyaansastra/CVE-2022-0847",
+      "description": "Dirty Pipe POC"
+    },
+    {
       "name": "AmOgh",
       "stars": 2,
       "url": "https://github.com/gyaansastra/AmOgh",
       "description": "Rootkit-Simulator"
-    },
-    {
-      "name": "CVE-2022-0847",
-      "stars": 2,
-      "url": "https://github.com/gyaansastra/CVE-2022-0847",
-      "description": "Dirty Pipe POC"
     },
     {
       "name": "CVE-2022-30190",
@@ -130,7 +130,7 @@
   ],
   "ai_ml_repos": [],
   "productivity_score": {
-    "score": 5623,
+    "score": 5633,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
