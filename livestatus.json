@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T05:14:30.290190+00:00",
+  "timestamp": "2026-04-30T05:17:50.827482+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -47,8 +47,8 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 7,
-    "commits_last_30_days": 13,
+    "commits_last_7_days": 5,
+    "commits_last_30_days": 12,
     "commits_last_365_days": 293,
     "prs_merged_last_7_days": 0,
     "prs_merged_last_30_days": 0,
@@ -131,7 +131,7 @@
   ],
   "ai_ml_repos": [],
   "productivity_score": {
-    "score": 5711,
+    "score": 5706,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
