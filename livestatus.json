@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T05:18:15.693460+00:00",
+  "timestamp": "2026-05-08T04:44:33.634708+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -19,9 +19,9 @@
     "archived": 0
   },
   "statistics": {
-    "total_stars": 107,
+    "total_stars": 108,
     "total_forks": 20,
-    "total_watchers": 107,
+    "total_watchers": 108,
     "total_commits": 283,
     "total_prs_merged": 53,
     "total_issues_closed": 0
@@ -58,7 +58,7 @@
   "top_repositories": [
     {
       "name": "CVE-2023-21716",
-      "stars": 59,
+      "stars": 60,
       "url": "https://github.com/gyaansastra/CVE-2023-21716",
       "description": "A vulnerability within Microsoft Office's wwlib allows attackers to achieve remote code execution with the privileges of the victim that opens a malicious RTF document. The attacker could deliver this file as an email attachment (or other means)."
     },
@@ -131,7 +131,7 @@
   ],
   "ai_ml_repos": [],
   "productivity_score": {
-    "score": 5676,
+    "score": 5686,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
