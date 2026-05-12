@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T05:45:12.356108+00:00",
+  "timestamp": "2026-05-12T05:26:36.371951+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -8,21 +8,21 @@
     "location": "Sydney",
     "followers": 21,
     "following": 4,
-    "public_repos": 26,
+    "public_repos": 27,
     "public_gists": 0,
     "created_at": "2018-01-22T11:50:02+00:00"
   },
   "repositories": {
-    "total": 105,
+    "total": 106,
     "original": 98,
-    "forked": 7,
+    "forked": 8,
     "archived": 0
   },
   "statistics": {
     "total_stars": 108,
     "total_forks": 19,
     "total_watchers": 108,
-    "total_commits": 284,
+    "total_commits": 287,
     "total_prs_merged": 53,
     "total_issues_closed": 0
   },
@@ -47,9 +47,9 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 1,
-    "commits_last_30_days": 11,
-    "commits_last_365_days": 284,
+    "commits_last_7_days": 4,
+    "commits_last_30_days": 14,
+    "commits_last_365_days": 287,
     "prs_merged_last_7_days": 0,
     "prs_merged_last_30_days": 0,
     "issues_closed_last_7_days": 0,
@@ -129,9 +129,15 @@
       "stars": 1
     }
   ],
-  "ai_ml_repos": [],
+  "ai_ml_repos": [
+    {
+      "name": "ml-intern",
+      "url": "https://github.com/gyaansastra/ml-intern",
+      "stars": 0
+    }
+  ],
   "productivity_score": {
-    "score": 5678,
+    "score": 5699,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
