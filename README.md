@@ -195,8 +195,8 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-13--05--2026-blue?style=flat-square)
-⚡ ![Productivity](https://img.shields.io/badge/Productivity-5713-green?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-14--05--2026-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5688-green?style=flat-square)
 💻 ![Commits](https://img.shields.io/badge/Commits-289-orange?style=flat-square)
 
 ### 🎯 Current Status: 💪 Active Contributor
@@ -208,8 +208,8 @@ Data Engineering:
 **📈 Repository Stats**
 - Total Repositories: **106**
 - Original Projects: **98**
-- Total Stars: ⭐ **108**
-- Total Forks: 🍴 **19**
+- Total Stars: ⭐ **107**
+- Total Forks: 🍴 **18**
 
 </td>
 <td>
@@ -235,7 +235,7 @@ Data Engineering:
 ![Active Contributor](https://img.shields.io/badge/-Active_Contributor-yellow?style=flat-square) ![Growing Portfolio](https://img.shields.io/badge/-Growing_Portfolio-yellow?style=flat-square)
 
 ### 📌 Top Public Repositories
-- [CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716) - ⭐ **60** stars
+- [CVE-2023-21716](https://github.com/gyaansastra/CVE-2023-21716) - ⭐ **59** stars
 - [Print-Nightmare-LPE](https://github.com/gyaansastra/Print-Nightmare-LPE) - ⭐ **20** stars
 - [Threat-Hunting-List](https://github.com/gyaansastra/Threat-Hunting-List) - ⭐ **9** stars
 - [CVE-2022-0847](https://github.com/gyaansastra/CVE-2022-0847) - ⭐ **3** stars
