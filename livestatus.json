@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-29T06:00:12.168041+00:00",
+  "timestamp": "2026-05-30T05:37:23.473696+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -8,14 +8,14 @@
     "location": "Sydney",
     "followers": 21,
     "following": 4,
-    "public_repos": 28,
+    "public_repos": 29,
     "public_gists": 0,
     "created_at": "2018-01-22T11:50:02+00:00"
   },
   "repositories": {
-    "total": 107,
+    "total": 108,
     "original": 98,
-    "forked": 9,
+    "forked": 10,
     "archived": 0
   },
   "statistics": {
@@ -118,6 +118,11 @@
     }
   ],
   "security_repos": [
+    {
+      "name": "malware_api_class",
+      "url": "https://github.com/gyaansastra/malware_api_class",
+      "stars": 0
+    },
     {
       "name": "Pentest_Guide",
       "url": "https://github.com/gyaansastra/Pentest_Guide",
