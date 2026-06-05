@@ -195,9 +195,9 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-04--06--2026-blue?style=flat-square)
-⚡ ![Productivity](https://img.shields.io/badge/Productivity-5883-green?style=flat-square)
-💻 ![Commits](https://img.shields.io/badge/Commits-324-orange?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-05--06--2026-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5915-green?style=flat-square)
+💻 ![Commits](https://img.shields.io/badge/Commits-325-orange?style=flat-square)
 
 ### 🎯 Current Status: 💪 Active Contributor
 
@@ -206,8 +206,8 @@ Data Engineering:
 <td>
 
 **📈 Repository Stats**
-- Total Repositories: **108**
-- Original Projects: **98**
+- Total Repositories: **110**
+- Original Projects: **99**
 - Total Stars: ⭐ **107**
 - Total Forks: 🍴 **18**
 
@@ -215,17 +215,17 @@ Data Engineering:
 <td>
 
 **🔥 Developer Activity**
-- Total Commits: **324**
+- Total Commits: **325**
 - PRs Merged: **53**
 - Issues Closed: **0**
-- Commits (30d): **41**
+- Commits (30d): **42**
 
 </td>
 </tr>
 </table>
 
 ### 💻 Top Languages
-- **Python**: █████████ `33 repos`
+- **Python**: █████████ `34 repos`
 - **JavaScript**: █ `7 repos`
 - **TypeScript**: █ `5 repos`
 - **Jupyter Notebook**: █ `5 repos`
