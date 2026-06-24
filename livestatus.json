@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-23T05:55:32.719708+00:00",
+  "timestamp": "2026-06-24T05:54:29.785498+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
     "bio": "Cybersecurity & AI Leader | Driving Security Strategy, Threat Intelligence, SOC Innovation & Generative AI Solutions",
     "company": null,
     "location": "Sydney",
-    "followers": 21,
+    "followers": 22,
     "following": 4,
     "public_repos": 32,
     "public_gists": 0,
@@ -47,8 +47,8 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 7,
-    "commits_last_30_days": 59,
+    "commits_last_7_days": 6,
+    "commits_last_30_days": 56,
     "commits_last_365_days": 364,
     "prs_merged_last_7_days": 0,
     "prs_merged_last_30_days": 0,
@@ -142,7 +142,7 @@
     }
   ],
   "productivity_score": {
-    "score": 6078,
+    "score": 6063,
     "level": "\ud83d\udcaa Active Contributor",
     "badges": [
       "Active Contributor",
