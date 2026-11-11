@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T08:52:20.269844+00:00",
+  "timestamp": "2026-11-11T08:29:20.822915+00:00",
   "user": {
     "login": "gyaansastra",
     "name": "Debarghaya Dasgupta",
@@ -47,7 +47,7 @@
     "CSS": 1
   },
   "recent_activity": {
-    "commits_last_7_days": 42,
+    "commits_last_7_days": 36,
     "commits_last_30_days": 59,
     "commits_last_365_days": 214,
     "prs_merged_last_7_days": 7,
