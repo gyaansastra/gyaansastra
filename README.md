@@ -195,9 +195,9 @@ Data Engineering:
 ## 📊 Live GitHub Metrics
 
 <!-- METRICS-START -->
-📅 ![Last Updated](https://img.shields.io/badge/Updated-19--11--2026-blue?style=flat-square)
-⚡ ![Productivity](https://img.shields.io/badge/Productivity-5346-green?style=flat-square)
-💻 ![Commits](https://img.shields.io/badge/Commits-228-orange?style=flat-square)
+📅 ![Last Updated](https://img.shields.io/badge/Updated-20--11--2026-blue?style=flat-square)
+⚡ ![Productivity](https://img.shields.io/badge/Productivity-5318-green?style=flat-square)
+💻 ![Commits](https://img.shields.io/badge/Commits-224-orange?style=flat-square)
 
 ### 🎯 Current Status: 💪 Active Contributor
 
@@ -215,8 +215,8 @@ Data Engineering:
 <td>
 
 **🔥 Developer Activity**
-- Total Commits: **228**
-- PRs Merged: **18**
+- Total Commits: **224**
+- PRs Merged: **17**
 - Issues Closed: **0**
 - Commits (30d): **63**
 
